@@ -1,4 +1,4 @@
 GShin
 =====
 
-Map overview of earthquakes in Japan (using Google Maps API)
+Overview map of earthquakes in Japan (using Google Maps API)
